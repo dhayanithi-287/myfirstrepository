@@ -1,2 +1,2 @@
 this my new first git demo
-git stat
+change demo
